@@ -6,7 +6,7 @@
 I have experience in building and deploying web applications and I am exploring a new interest in Open Source and actively making contributions to the Community.
 
 ## :iphone: Connect with me
-[![name](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png/)](https://www.linkedin.com/in/kwame-sarfo-91484933/) If you have any questions or feedback, do not hesitate to reach out to me!
+[<img alt="linkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" />](https://www.linkedin.com/in/kwame-sarfo-91484933/) If you have any questions or feedback, do not hesitate to reach out to me!
 
 ## 🔭 I’m currently working on:
 * New projects
@@ -27,7 +27,7 @@ I have experience in building and deploying web applications and I am exploring 
 
 
 ![picture alt](https://camo.githubusercontent.com/0eaa8bbe4fcfec2fee35d701ff05f9edbdb4ac7df17032dde201514300c2b11c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5374796c652d7374796c65642d2d636f6d706f6e656e74732d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d7374796c65642d636f6d706f6e656e747326636f6c6f723d444237303933 "Styled Components")
-![picture alt]([http://via.placeholder.com/200x150](https://camo.githubusercontent.com/ab998c8801b6c20d5bcc7691e6de757a5cbf1faf01f661c0c34f492c22842c04/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5374796c652d435353332d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d4353533326636f6c6f723d313537324236 "CSS")
+![picture alt](https://camo.githubusercontent.com/ab998c8801b6c20d5bcc7691e6de757a5cbf1faf01f661c0c34f492c22842c04/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5374796c652d435353332d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d4353533326636f6c6f723d313537324236 "CSS")
 ![picture alt](https://camo.githubusercontent.com/cc608282956246b05f1873dcad44ac821289a7371650478156e3a5d0323a0aba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5374796c652d426f6f7473747261702d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d426f6f74737472617026636f6c6f723d373935324233 "Bootstrap")
 
 
