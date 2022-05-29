@@ -6,7 +6,7 @@
 I have experience in building and deploying web applications and I am exploring a new interest in Open Source and actively making contributions to the Community.
 
 ## :iphone: Connect with me
-[<img alt="linkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" />](https://www.linkedin.com/in/kwame-sarfo-91484933/) If you have any questions or feedback, do not hesitate to reach out to me!
+[<img alt="linkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" />](https://www.linkedin.com/in/kwame-sarfo-91484933/)   [<img alt="Twitter" width="40px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />](https://www.twitter.com/Kwamesarfo__)   If you have any questions or feedback, do not hesitate to reach out to me!
 
 ## 🔭 I’m currently working on:
 * New projects
