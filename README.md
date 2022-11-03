@@ -14,10 +14,9 @@ I have experience in building and deploying web applications and I am exploring 
 * Open Source Projects
 
 ## 🌱 I’m currently learning:
-* TypeScript
-* JavaScript (Updating my knowledge)
-* A software development course at ALX_Africa
-* Prepping on how to take and pass interviews
+* Java
+* Spring Boot
+
 
 ## Technical Skills:
 ![picture alt](https://camo.githubusercontent.com/25caf37c80ad19ff23ec96a855c2cebcca7c985a30f1c72a6516b0ac334c6b51/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d52656163742d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d726561637426636f6c6f723d363144414642 "React")
