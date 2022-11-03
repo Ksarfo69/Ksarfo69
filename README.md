@@ -2,7 +2,7 @@
 
 ## Hi there, I am Kwame Sarfo
 
-## :thought_balloon: I am a highly motivated and self taught Fullstack Developer
+## :thought_balloon: I am a highly motivated and self taught Developer
 I have experience in building and deploying web applications and I am exploring a new interest in Open Source and actively making contributions to the Community.
 
 ## :iphone: Connect with me
